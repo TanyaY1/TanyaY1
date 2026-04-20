@@ -21,7 +21,7 @@ Team project.
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Polish](https://img.shields.io/badge/Polish-A1-lightgrey?style=flat-square)
 
-##📫 How to reach me:  
+## 📫 How to reach me:  
 [LinkedIn] (https://www.linkedin.com/in/yakovets-tetiana/)
 
 
