@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Tanya Yakovets
 
 Junior Frontend Developer | HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+
 Motivated Junior Frontend Developer with strong organizational and time management skills.
 Detail-oriented and dependable, with a proactive approach to learning and professional growth. 
 Works well in team environments and contributes with a positive, collaborative attitude.
