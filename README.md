@@ -15,10 +15,12 @@ Individual project.
 - [Yacht] (https://yevhenye.github.io/team-work/) - Collaborated with a team to develop a website for a yacht rental business. Designed a responsive interface optimized for various devices, incorporating animations, modal components, and a burger menu to support the ordering process.
 Role: Frontend Developer (implemented mobile menu).
 Team project.
+
 ## 🗣️ Languages
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
-[Polish](https://img.shields.io/badge/Polish-A1-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-A1-lightgrey?style=flat-square)
+
 ##📫 How to reach me:  
 [LinkedIn] (https://www.linkedin.com/in/yakovets-tetiana/)
 
